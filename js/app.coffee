@@ -1,2 +1,0 @@
-sayHi = () ->
-    alert "Hello!"
